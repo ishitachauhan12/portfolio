@@ -1,0 +1,32 @@
+li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+.appBar {
+  background-color: transparent;
+  z-index: 15;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95%;
+  padding: 10px 60px;
+  display: flex;
+  margin: 2;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  padding: 6px 15px;
+  color: white;
+  border-radius: 20px;
+  font-size: large;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.appBar ul li a:hover {
+  background-color: white;
+  color: #1c0522;
+}

@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #1c0522;
+  background-image: url("./Img/stars.png");
+  background-repeat: repeat;
+  object-fit: cover;
+  padding: 0;
+  margin: 0;
 }
 
 .App-logo {

@@ -1,0 +1,50 @@
+export default[
+    {
+      "heading":"PROJECTS",
+      "projects":[
+          {
+              "key":"1",
+              "img_url":"cc",
+              "project_name":"CHIT-CHAT",
+              "description":"A React-based whatsapp-clone with facilities of chatting,making group, send images and login/logout using email. Firebase was used as database management system.",
+              "link":[{
+                  "key":"1",
+                  "name":"GITHUB",
+                  "url":"https://github.com/ishitachauhan12/chit-chat"
+              }]
+          },
+          {
+            "key":"2",
+            "img_url":"bh",
+            "project_name":"BOOK-HUNT",
+            "description":"A project to find the perfect book on the basis of the topic you choose. login/logout using mongodb atlas, api calls using nodejs and express.",
+            "link":[{
+                "key":"1",
+                "name":"GITHUB",
+                "url":"https://github.com/ishitachauhan12/bookhunt"
+            },
+            {
+                "key":"2",
+                "name":"DEMO",
+                "url":"http://chauh-book-rate.herokuapp.com/html/home.html#"
+            }]
+        },
+        {
+            "key":"3",
+            "img_url":"wa",
+            "project_name":"WEATHER-APP",
+            "description":"   A simple api based project that gives you weather report on the basis of the location entered. Made using nodejs and expressjs.",
+            "link":[{
+                "key":"1",
+                "name":"GITHUB",
+                "url":"https://github.com/ishitachauhan12/weather-website"
+            },
+            {
+                "key":"2",
+                "name":"DEMO",
+                "url":"https://chau-weather-app.herokuapp.com/"
+            }]
+        }
+      ]  
+    }
+]
