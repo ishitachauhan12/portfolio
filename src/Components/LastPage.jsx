@@ -16,6 +16,7 @@ function LastPage() {
         flexDirection: "row",
         justifyContent: "space-between",
       }}
+      id="contact"
     >
       <div style={{ width: "50%" }}>
         <ul>
